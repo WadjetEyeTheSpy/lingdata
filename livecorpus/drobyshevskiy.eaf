@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-20T20:34:00+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/Мой ПК/Desktop/drobyshevskiy.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./drobyshevskiy.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:f25a1ff0-0c31-4df0-b31f-705e682a81d4</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">86</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="7420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="7690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="21665"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="21770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="30800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="31390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="33150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="33450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="35170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="35405"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="39380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="39705"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="45550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="45640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="49200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="49405"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="50265"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="50580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="53390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="53630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="61405"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="61815"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="64865"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="65135"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="68540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="68815"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="70235"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="70540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="76590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="76970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="81245"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="81635"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="81635"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="88960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="89420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="93010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="93420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="105900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="106360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="106370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="110330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="110500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="113700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="113700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="123060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="123400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="125170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="125450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="127720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="128240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="130300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="130690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="131880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="132220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="134500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="134885"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="137395"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="137635"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="139595"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="140070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="148305"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="148710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="152640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="152850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="154780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="155070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="159080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="159580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="161180"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="WadjetEyeTheSpy" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@svd1978m" TIER_ID="@svd1978m-text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>для того чтоб вообще / какие-либо изменения продвигались да / тем более разумф... в сторону разумности это такое мега-специфическое дело // нужно стечение огромного количества обстоятельств //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>и вот только в нашей линии они сложились /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>а у дельфинов среда слишком простая /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>то есть в море / ну какая задача стоит перед дельфином? // поймать селёдку //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>то есть когда у вас задача обмануть селёдку / да? / чтобы её сожрать // ну / как бы / тут сильно много интеллекта не надо </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>какая-нибудь акула справляется там вообще практически без мозгов // / эээ / и нормально //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>ну вот / так что /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>эээ / а у дельфинов среда такая что как бы не очень //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>то же самое касается там каких-нибудь слонов да / он в безопасности живёт он здоровый у него мозгов много / да? / там четыре кило может быть // а то и больше / но у него нет задачи //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>опять же / он большой // всё / на этом идея кончается</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>у маленьких животных много проблем в жизни / но они маленькие как бы / да? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>вот человек он как раз в оптимум попадает //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>поэтому самые оптимальные / эээ / такие вот / потенциально разумные существа это либо другие приматы //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>ну / те же там шимпанзе / капуцины мои любимые // там ещё кто-нибудь такой / макаки //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>эээ / они вот могли бы в принципе / и может быть ещё и будут / если люди себя выпилят // ну / и освободят экологическую нишу / то в принципе у других приматов шанс хороший // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>из уже не приматов // мои фавориты / это без сомнения еноты //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>потому что они социальные / они полудревесные полуназемные / у них ручки очень такие ловкие с пальчиками // ну вот / они всеядные // то есть в принципе по всем основным показателям /  они такие же как наши предки / где-то там пятьдесят сорок миллионов лет назад //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>то есть если мы из этого состояния дошли до людей / то почему б енотам / не дойти ну / и освободят экологическую нишу / то в принципе у других приматов шанс хороший // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>то есть если мы из этого состояния дошли до людей / то чего бы енотам не дойти //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>да / мы сейчас заняли все возможные экологические ниши //  ну сядьте на любой самолёт в любом направлении летящий // и смотрите на землю / да? / и вы везде увидите людей людей людей //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>там какие-то поля / дороги / что-то ещё //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>где / должно... должен возникать этот самый разум //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>ну то есть для этого нужно место просто банально //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>вот / а где бы ему было //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>и вот опять же должно быть большое стечение обстоятельств //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>то есть те же капуцины в Южной Америке они так и не стали разумными //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>или да / там какие-нибудь орангутаны в Восточной Азии //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>там были другие условия / там было слишком много хороших / чудесных лесов / с множеством фруктов / с минимумом конкурентов / с минимумом опасностей //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>и не было никакой надобности эволюционировать дальше / а наши предки они всё время попадали // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>ммм / в такие неприятности /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>что это их подталкивало к эволюции / но не настолько мощные / чтоб прям все померли</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>вот нам в какой-то степени очень повезло //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="WadjetEyeTheSpy" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@sps1978f" TIER_ID="@sps1978f-text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>смотрите я ещё вот хотела спросить / эээ // кто если не обезьяны / щас поясню / эээ / что я имею в виду</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>если бы эволюция пошла чуть по-другому / кто мог бы стать первым разумным существом на Земле / вот ну говорят там про дельфины да они могли бы там с их высоким интеллектом // потом стать людьми? / например //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>ну мы являемся / да / преградой для них для того чтобы они как бы</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="WadjetEyeTheSpy" LINGUISTIC_TYPE_REF="gestures"
+        PARTICIPANT="@svd1978m" TIER_ID="SVD-RGU"/>
+    <TIER ANNOTATOR="WadjetEyeTheSpy" LINGUISTIC_TYPE_REF="gestures"
+        PARTICIPANT="@sps1978f" TIER_ID="SPS-RGU"/>
+    <TIER ANNOTATOR="WadjetEyeTheSpy" LINGUISTIC_TYPE_REF="words"
+        PARENT_REF="@svd1978m-text" PARTICIPANT="@svd1978m" TIER_ID="SVD-Words"/>
+    <TIER DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="phonetic_transcription"
+        PARENT_REF="@sps1978f-text" TIER_ID="W-IPA"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_phases"
+        PARENT_REF="SVD-RGU" TIER_ID="W-RGph"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_phases"
+        PARENT_REF="SPS-RGU" TIER_ID="K-RGph"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="part of speech"
+        PARENT_REF="SVD-Words" TIER_ID="W-POS"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="W-RGph" TIER_ID="W-RGMe"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="K-RGph" TIER_ID="K-RGMe"/>
+    <TIER ANNOTATOR="WadjetEyeTheSpy" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="@svd1978m-text"
+        PARTICIPANT="@svd1978m" TIER_ID="@svd1978m-translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>for any changes to evolve yeah especially consci... towards consciousness it is such a mega-specific deal there should be a lot of coincidences</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>and only in our line such a coincidence happened</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>and the dolphins live in a way too simple environment</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>so in the sea what kind of a goal does a dolphin have? to catch a herring</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>so when you have a goal to deceive a herring yeah? to eat it so like you don't have to be highly intelligent</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>some random shark can manage it almost without any brain uhm alright</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>so thus</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>uhm and the dolphins don't have the right environment so to say</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>we can say the same about for instance elephants yeah an elephant lives in safety he is large he has a big brain yeah? there might be 4 kilos or even more but it doesn't have a goal</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>once again he's big that's all where it ends</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>small animals have a lot of troubles in their life but they're small yeah?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>and a human he's exactly optimal //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>so the most optimal uhm such potentially conscious creatures are either the other primates</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE> I mean like chimpanzee my beloved capuchins something else macaques</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>uhm so they theoretically could've and perhaps will in case humanity destroys itself and frees up the ecological niche then the other primates have a good chance</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>out of something other than the primates my favorites are definitely racoons</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>because they are social they are accustomed both to living on the trees and on the ground they have supple fingers on their hands and feet so they are omnivorous so basically on all indicators they are the same as our ancestors fifty or forty millions of years ago</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>so if we became humans in the same conditions why wouldn't the raccoons</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>yeah we occupied all possible ecological niches take any plane to any direction and look down on the earth yeah? and you'll see people people people everywhere</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>there are some fields roads something else</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>where conscience should evolve</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>so basically there should be some space for it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>so where could it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>so again there should be a lot of coincidences</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>that is, the same capuchins in South America didn't become conscious</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>or yeah like orangutans in Eastern Asia</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>there were the other conditions there were a lot of good wonderful forests with a lot of fruits with a minimum of rivals a minimum of dangers</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>and there was no need to evolve any further but our ancestors they had always got </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>uhm in such troubles</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>that forced them to evolve but not so forceful to kill them all</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>so in some sense we got lucky</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="WadjetEyeTheSpy" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="@sps1978f-text"
+        PARTICIPANT="@sps1978f" TIER_ID="@sps1978f-translation">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>look I also wanted to ask uhm for whom would it be if not for the apes let me clarify uhm what I mean</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>if the evolution went a bit the other way who could have become the first conscious creature on the Earth they talk about dolphins yeah could they have with their you know high intelligence become human-like a bit later? for instance </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>so we are yeah an obstacle for them to like</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_4bb0e8ee-3642-499d-8b08-0e90bad221d0">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b7b18b64-b655-4441-aa6f-797f0ed40fcf">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ee689b67-a6d8-4f46-9af2-2c5e21aa493f">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9dcbea52-997b-476f-b97b-24a7689a9b73">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d596d0f9-0263-4d2c-92a3-41750e6fd737">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1e56db25-3ac2-468a-811b-52bfe741d0e5">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a8f56e97-6818-4c0d-83de-3c264f77d0f5">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f53ac670-52bf-440e-8f8c-c927ae56b013">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_535c3aa9-4e7a-4642-9f62-730bbb574301">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_58811902-defc-4169-a96d-8589d1fd6b8c">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4b89f34f-a89f-4bd3-9502-24792b510a58">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8113083c-2643-4842-ab7d-edcb8586e4c8">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_39ae6949-5386-4508-aa4f-8e757bf98406">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_bf390608-380c-4153-8b70-43cf647d7309">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fb373ce3-ae6b-41f4-9bf8-bad1c591d142">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_de48509e-35cc-4e60-8bb5-97bec29c5246">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c9ddce3a-3c57-4a27-8cbe-4126dd6cfd43">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
